@@ -1,0 +1,22 @@
+{
+    "editor.fontSize": 12,
+    "editor.tabSize": 2,
+    "terminal.integrated.fontSize": 12,
+    "window.zoomLevel": 1,
+    "[Log]": {
+      "editor.fontSize": 12
+    },
+    "prettier.singleQuote": true,
+    "editor.accessibilityPageSize": 12,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    },
+    "files.exclude": {
+      ".expo": true,
+      ".expo-shared": true,
+      "node_modules/": true,
+    },
+    "jshint.options": {
+      "esversion": 9
+    }
+  }

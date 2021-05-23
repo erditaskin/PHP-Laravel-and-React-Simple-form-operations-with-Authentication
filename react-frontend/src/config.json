@@ -1,0 +1,4 @@
+{
+  "development": "http://localhost:8000",
+  "production": "https://api.domain.com"
+}
